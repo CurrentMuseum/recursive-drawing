@@ -1,7 +1,7 @@
 # recursive-drawing
 A recursive drawing starter kit for Code-n-Craft
 
-Visit index.html in a browser to see the table of contents.
+##Visit index.html in a browser to see the table of contents.
 
 All source code is from Daniel Shiffman's The Nature of Code.
 
